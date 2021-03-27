@@ -5,6 +5,7 @@ A trivia game on history, computer science, and mythology written with functiona
   - JavaScript
   - ReactJS
   - React Quiz Component NPM package
+  - Open Trivia DB API
 
 ## Available Scripts
 
