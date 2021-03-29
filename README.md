@@ -1,5 +1,10 @@
 # React Trivia App
 A trivia game on history, computer science, and mythology written with functional components. 
+
+# Live App
+
+https://react-trivia-app.vercel.app/
+
 # Tech
 
   - JavaScript
